@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robinson Mosquera Cubides</h1>
-<h3 align="center">Hola, soy Robinson Mosquera Cubides; tengo 27 años, actualmente trabajo como independiente. Tengo un poco de experiencia programando en lenguaje c++, arduino, matlab, phyton, HTML, calibrando sensores; He realizados proyectos de capturar el movimiento de las articulaciones del cuerpo y mostrarlos en Unity a tiempo real, robots a controlados desde el celular (Android), entre otros; todos a nivel académico. Lo que espero en campus, es pulir mis conocimientos en programación y aprender cosas nuevas, mejorar mi ingles y poder ser un punto de referencia en el programa.</h3>
+<h1 align="center">Robinson Mosquera Cubides</h1>
+<h3 align="center">En la programación encuentro la oportunidad de crear nuevas soluciones y ampliar mi perspectiva del mundo. Me apasiona explorar cómo las tecnologías pueden transformar ideas en realidad y mejorar la forma en que interactuamos con la información y el entorno digital. Destaco por mis habilidades en comunicación efectiva, gestión del tiempo y liderazgo, las cuales han sido fundamentales en mi trabajo colaborativo en equipos ágiles. Mi capacidad autodidacta me impulsa a mantenerme actualizado en las últimas tendencias y herramientas, mientras que mi enfoque meticuloso en la resolución de problemas garantiza resultados de calidad y atención al detalle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinsonmosqueracubides&label=Profile%20views&color=0e75b6&style=flat" alt="robinsonmosqueracubides" /> </p>
 
