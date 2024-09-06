@@ -6,7 +6,7 @@
 
 ### 🌟 Acerca de mí
 
-- 🎯 Me especializo en el desarrollo software con tecnologías como **HTML, CSS, JavaScript, Python, MySQL, Java, PostgreSQL** y **Sping Boot**.
+- 🎯 Me especializo en el desarrollo de software con tecnologías como **HTML, CSS, JavaScript, Python, MySQL, Java, PostgreSQL** y **Sping Boot**.
 - 🔄 Trabajo bajo metodologías ágiles como **Scrum** para maximizar la eficiencia en proyectos en equipo.
 - 📚 Estoy en constante aprendizaje, adaptándome rápidamente a nuevos lenguajes y frameworks.
 - 👥 Me encanta colaborar y enseñar, con la meta de compartir mis conocimientos y aprender de otros.
@@ -28,9 +28,13 @@
 
 - **[Sistema de gestión de parques naturales](https://github.com/RobinsonMosqueraCubides/BBDD_ParquesNaturales)**: Aplicación web para gestionar especies, visitantes y personal de parques naturales, con un sistema de roles para administradores y empleados.
 
-### 📊 Estadísticas de GitHub
+### <p align="center">📊 Estadísticas de GitHub</p>
 
-[![Estadísticas de GitHub de Robinson](https://github-readme-stats.vercel.app/api?username=RobinsonMosqueraCubides&show_icons=true&theme=radical)](https://github.com/RobinsonMosqueraCubides)
+<p align="center">
+  <a href="https://github.com/RobinsonMosqueraCubides">
+    <img src="https://github-readme-stats.vercel.app/api?username=RobinsonMosqueraCubides&show_icons=true&theme=default" alt="Estadísticas de GitHub de Robinson" />
+  </a>
+</p>
 
 ### 📫 Cómo contactarme
 
