@@ -1,17 +1,38 @@
-<h1 align="center">La programación es mi puerta a la innovación, un mundo que quiero transformar a través de procesos innovadores.</h1>
-<h3 align="center">En ella encuentro la oportunidad de crear nuevas soluciones y ampliar mi perspectiva del mundo. Me apasiona explorar cómo las tecnologías pueden transformar ideas en realidad y mejorar la forma en que interactuamos con la información y el entorno digital. Destaco por mis habilidades en comunicación efectiva, gestión del tiempo y liderazgo, las cuales han sido fundamentales en mi trabajo colaborativo en equipos ágiles. Mi capacidad autodidacta me impulsa a mantenerme actualizado en las últimas tendencias y herramientas, mientras que mi enfoque meticuloso en la resolución de problemas garantiza resultados de calidad y atención al detalle.</h3>
+ # <p align="center"> 👋 ¡Hola, soy Robinson Mosquera!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robinsonmosqueracubides&label=Profile%20views&color=0e75b6&style=flat" alt="robinsonmosqueracubides" /> </p>
+## <p align="center">💻 Desarrollador de Software | 🚀 Innovación y Aprendizaje Continuo como pilares fundamentales de mi desarrollo profesional.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinsonmosqueracubides" alt="robinsonmosqueracubides" /></a> </p>
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software enfocado en crear soluciones tecnológicas que impacten de manera positiva tanto a nivel nacional como internacional. Mi enfoque está en el **trabajo colaborativo** y en la **innovación**, siempre aprendiendo y actualizándome en el mundo de la programación.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://co.linkedin.com/in/robinson-mosquera-429a73108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://co.linkedin.com/in/robinson-mosquera-429a73108" height="30" width="40" /></a>
-</p>
+### 🌟 Acerca de mí
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- 🎯 Me especializo en el desarrollo software con tecnologías como **HTML, CSS, JavaScript, Python, MySQL, Java, PostgreSQL** y **Sping Boot**.
+- 🔄 Trabajo bajo metodologías ágiles como **Scrum** para maximizar la eficiencia en proyectos en equipo.
+- 📚 Estoy en constante aprendizaje, adaptándome rápidamente a nuevos lenguajes y frameworks.
+- 👥 Me encanta colaborar y enseñar, con la meta de compartir mis conocimientos y aprender de otros.
+  
+### 🛠️ Tecnologías y Herramientas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinsonmosqueracubides&show_icons=true&locale=en" alt="robinsonmosqueracubides" /></p>
+- **Lenguajes de programación**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+- **Bases de datos**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Backend**: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- **Metodologías ágiles**: ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+- **Herramientas**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![JSON Server](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
+### 🚀 Proyectos destacados
+
+- **[Eventime](https://github.com/RobinsonMosqueraCubides/Eventime)**: Software para la gestión de eventos de anime, que incluye manejo de actividades, taquillas, tiendas y restaurantes, con integración de **trivias** para los participantes.
+  
+- **[Dashboard de Inventario](https://github.com/RobinsonMosqueraCubides/proyectoFiltroJs)**: Un dashboard automatizado para la gestión de activos, marcas y personas, que permite la visualización en tiempo real de los datos y genera reportes detallados para mejorar la toma de decisiones.
+
+- **[Sistema de gestión de parques naturales](https://github.com/RobinsonMosqueraCubides/BBDD_ParquesNaturales)**: Aplicación web para gestionar especies, visitantes y personal de parques naturales, con un sistema de roles para administradores y empleados.
+
+### 📊 Estadísticas de GitHub
+
+[![Estadísticas de GitHub de Robinson](https://github-readme-stats.vercel.app/api?username=RobinsonMosqueraCubides&show_icons=true&theme=radical)](https://github.com/RobinsonMosqueraCubides)
+
+### 📫 Cómo contactarme
+
+- **LinkedIn**: [Robinson Mosquera](https://www.linkedin.com/in/rmosqueracubides/)
+- **Correo**: [robin.mosquera13@gmail.com](mailto:robin.mosquera13@gmail.com)
